@@ -12,3 +12,4 @@
    Tampilan Tabel Mahasiswa pada Dbeaver
 ![image](https://github.com/ifathya6/pertemuan1-basis-data/assets/148310376/ff6af75b-4ae0-4594-b468-fbb820551f7b)
 ![image](https://github.com/ifathya6/pertemuan1-basis-data/assets/148310376/ddf87c32-50c0-433e-bdb7-66384927ca99)
+![image](https://github.com/ifathya6/pertemuan1-basis-data/assets/148310376/fd3bc922-a690-4bcc-9e81-3e26d235dcb3)
