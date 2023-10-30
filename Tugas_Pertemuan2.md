@@ -10,3 +10,4 @@
    Tampilan Tabel Mahasiswa pada SQL Shell
 ![image](https://github.com/ifathya6/pertemuan1-basis-data/assets/148310376/766fa313-ede3-49a7-9818-238e9e6ed1ab)
    Tampilan Tabel Mahasiswa pada Dbeaver
+![image](https://github.com/ifathya6/pertemuan1-basis-data/assets/148310376/ff6af75b-4ae0-4594-b468-fbb820551f7b)
